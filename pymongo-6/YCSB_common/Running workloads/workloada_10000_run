@@ -18,7 +18,7 @@ mongo client connection created with mongodb://127.0.0.1:27017/ycsb?w=0
 [READ], 99thPercentileLatency(us), 281
 [READ], Return=OK, 10000
 [READ-MODIFY-WRITE], Operations, 10000
-[READ-MODIFY-WRITE], AverageLatency(us), 115.8402
+[READ-MODIFY-WRITE], AverageLatency(us), 1059.6
 [READ-MODIFY-WRITE], MinLatency(us), 63
 [READ-MODIFY-WRITE], MaxLatency(us), 36415
 [READ-MODIFY-WRITE], 95thPercentileLatency(us), 221
